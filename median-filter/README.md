@@ -2,7 +2,7 @@
 
 ## An example of when it is useful to use the median filter.
 
-![Original Image](Questionario-3-imagem-3.png)
+![Original Image](Questionario-3-Imagem-3.png)
 
 There is salt and pepper impulsive noise in the original image. Using the median filter, it is possible to reduce that noise, since too high or too low values tend to be filtered out.
 
